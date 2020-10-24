@@ -1,1 +1,2 @@
 # towerDef
+Chci vytvořit 2D hru, kde hráč bude chodit a stavět vlastní věže na ničení robotů, avšak bude se muset téže vyhýbat projektilům z těchto věží. Hráč bude sbírat součástky z rozbitých robotů na stavbu nových věží. Počet přicházejících robotů se bude každou vlnou zvyšovat, takže hráč bude muset riskovat svůj život, aby sesbíral co nejvíce součástek z rozbitých robotů a přitom se nenechal trefit vlastní věží.
